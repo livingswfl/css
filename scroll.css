@@ -1,0 +1,47 @@
+<style type="text/css">@font-face {
+  font-family: 'Pacifico';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Pacifico Regular'), local('Pacifico-Regular'),
+    url(https://fonts.gstatic.com/s/pacifico/v12/FwZY7-Qmy14u9lezJ-6H6MmBp0u-.woff2)
+      format('woff2');
+  font-display: swap;
+}
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: 100;
+    font-family: 'Open Sans', sans-serif;
+}
+.cms-content-wrapper {
+    background: url('https://b386363e680359b5cc19-97ec1140354919029c7985d2568f0e82.ssl.cf1.rackcdn.com/ckeditor_assets/pictures/root/com/319000/content_livingswfl_1_.jpg') repeat fixed 100%;
+    background-size: cover;
+background-position: right;
+    color: aliceblue;
+box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
+}
+
+.market-classic{
+    background: url('https://ik.imagekit.io/livingswfl/livingswfl_3.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1677339911081') repeat fixed 100%;
+    background-size: cover;
+background-position: right;
+    color: aliceblue;
+
+box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
+}
+
+
+.parallax-inner{
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+h3{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+h1{
+    text-align: center;<br>
+</style>
