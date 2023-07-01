@@ -72,4 +72,9 @@ padding: .5rem;
   margin-bottom: 1.25rem;    
   font-weight: 400;
 }
+
+.slick-slide{
+padding:10px}
+.slick-cloned{
+padding:10px}
 </style>
