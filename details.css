@@ -2,22 +2,19 @@
     display: none;
 visibility: hidden;
 }
-</style>
-<style type="text/css">div.js-inquire-form {
+
+div.js-inquire-form {
   position: -webkit-sticky;
   position: sticky;
   top: 50px;
-</style>
-<p>&nbsp;</p>
-<style type="text/css">.swiper-slide-active {
+
+.swiper-slide-active {
     padding: 5px;
 background-color: white;}
-</style>
-<style type="text/css">.swiper-slide-prev {
+.swiper-slide-prev {
     padding: 5px;
 background-color: white;}
-</style>
-<style type="text/css">.swiper-slide-next {
+.swiper-slide-next {
     padding: 5px;
 background-color: white;}
 </style>
