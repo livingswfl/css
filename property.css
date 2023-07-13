@@ -1,0 +1,20 @@
+<style type="text/css">.mt-2 {
+    display: none;
+visibility: hidden;
+}
+
+div.js-inquire-form {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 50px;
+
+.swiper-slide-active {
+    padding: 5px;
+background-color: white;}
+.swiper-slide-prev {
+    padding: 5px;
+background-color: white;}
+.swiper-slide-next {
+    padding: 5px;
+background-color: white;}
+</style>
